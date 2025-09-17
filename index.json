@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "id": "iframe_url",
+      "label": "Ad Preview URL",
+      "type": "DIMENSION",
+      "description": "The iframe src for the ad preview"
+    }
+  ],
+  "style": []
+}
