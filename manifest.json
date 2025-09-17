@@ -1,0 +1,19 @@
+{
+  "name": "Ad Preview iFrame",
+  "description": "Displays Facebook ad preview iframe from URL field",
+  "resources": [
+    {
+      "type": "json",
+      "url": "index.json"
+    },
+    {
+      "type": "css",
+      "url": "index.css"
+    },
+    {
+      "type": "js",
+      "url": "index.js"
+    }
+  ],
+  "devMode": true
+}
