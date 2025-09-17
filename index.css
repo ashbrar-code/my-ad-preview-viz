@@ -1,0 +1,9 @@
+#viz {
+  width: 100%;
+  height: 700px;
+  overflow: hidden;
+  border: none;
+}
+iframe {
+  border: none;
+}
